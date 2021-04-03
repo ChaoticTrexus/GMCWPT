@@ -15,7 +15,7 @@
  - [ ]  Create UI
 
 
-Convars | Return
+Console | Action
 ------------ | -------------
 ```~~``` | ```{amount} {recoil} ```
 Content column 1 | Content column 2
