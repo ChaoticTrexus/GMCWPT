@@ -14,7 +14,7 @@
  - [ ]  Complete GMCWST Base
  - [ ]  Create GUI in utilites
  - [ ]  Upload to workshop 
-### any issues or possible fixes please report them to issues
+### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
 #### below is the console convars 
 Console | Action
