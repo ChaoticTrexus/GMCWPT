@@ -19,7 +19,7 @@
 ### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
 #### below is the console convars 
-Console | Action
+Convar | Action
 ------------ | -------------
 ```cwst_spread``` | {amount} 
 ```cwst_presets``` | {PRESET_DEFAULT} 
