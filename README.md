@@ -1,7 +1,8 @@
+
 # Garrys Mod Customizable Weapon Spray Tool
 
 
-![CWST LOGO](/project_logo/CWST.png)
+
 
 
 
@@ -26,3 +27,4 @@ Convar | Action
 ```cwst_color```
 ```cwst_disable```
 ##### uses default base ingame aka swep look in weapons/CWST GUN1 / GUN2
+![CWST LOGO](/project_logo/CWST.png)
