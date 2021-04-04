@@ -1,9 +1,7 @@
 
 # Garrys Mod Customizable Weapon Spray Tool
 
-
 ![CWST LOGO](/project_logo/CWST_SMALL.png)
-
 
 
 
