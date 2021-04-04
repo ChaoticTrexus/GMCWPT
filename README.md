@@ -19,7 +19,8 @@
 #### below is the console convars 
 Console | Action
 ------------ | -------------
-```cwst_weapon_output``` | ```{recoil} , {amount} | {spread} , {amount} ```
+```cwst_spread``` | {recoil} , {amount} | {spread} , {amount}
 ```cwst_presets``` | Content column 2
 ```cwst_color```
 ```cwst_disable```
+##### uses default base ingame aka swep look in weapons/CWST GUN1 / GUN2
