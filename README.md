@@ -12,8 +12,10 @@
 ## below are the convars to use also comes with a handy gui in the utilites tab
 
  - [ ]  Complete GMCWST Base
- - [ ]  Create GUI in utilites
+ - [ ]  Create UI for custom patterns 
  - [ ]  Upload to workshop 
+ - [ ]  Add support for other weapon bases
+ - [ ]  
 ### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
 #### below is the console convars 
