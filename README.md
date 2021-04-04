@@ -15,7 +15,7 @@
  - [ ]  Create UI for custom patterns 
  - [ ]  Upload to workshop 
  - [ ]  Add support for other weapon bases
- - [x]  Add Logo
+ - [x]  ~~Add Logo~~
 ### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
 #### below is the console convars 
