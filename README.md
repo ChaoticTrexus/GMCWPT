@@ -1,3 +1,4 @@
+
 # Garrys Mod Customizable Weapon Spray Tool
 
 
@@ -15,14 +16,15 @@
  - [ ]  Create UI for custom patterns 
  - [ ]  Upload to workshop 
  - [ ]  Add support for other weapon bases
- - [x]  Add Logo
+ - [x]  ~~Add Logo~~
 ### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
 #### below is the console convars 
-Console | Action
+Convar | Action
 ------------ | -------------
 ```cwst_spread``` | {amount} 
-```cwst_presets``` | Content column 2
+```cwst_presets``` | {PRESET_DEFAULT} 
 ```cwst_color```
 ```cwst_disable```
 ##### uses default base ingame aka swep look in weapons/CWST GUN1 / GUN2
+![CWST LOGO](/project_logo/CWST.png)
