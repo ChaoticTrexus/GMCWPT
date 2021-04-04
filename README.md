@@ -14,8 +14,7 @@
  - [ ]  Complete GMCWST Base
  - [ ]  Create GUI in utilites
  - [ ]  Upload to workshop 
-
-
+### any issues or possible fixes please report them to issues
 Console | Action
 ------------ | -------------
 ```~~``` | ```{amount} {recoil} ```
