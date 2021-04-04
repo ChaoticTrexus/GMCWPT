@@ -22,7 +22,7 @@
 Console | Action
 ------------ | -------------
 ```cwst_spread``` | {amount} 
-```cwst_presets``` | Content column 2
+```cwst_presets``` | {PRESET_DEFAULT} 
 ```cwst_color```
 ```cwst_disable```
 ##### uses default base ingame aka swep look in weapons/CWST GUN1 / GUN2
