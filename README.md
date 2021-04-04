@@ -15,15 +15,11 @@
  - [ ]  Create GUI in utilites
  - [ ]  Upload to workshop 
 ### any issues or possible fixes please report them to issues
+
+#### below is the console convars 
 Console | Action
 ------------ | -------------
-```~~``` | ```{amount} {recoil} ```
-Content column 1 | Content column 2
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+```cwst_weapon_output``` | ```{recoil} , {amount} | {spread} , {amount} ```
+```cwst_presets``` | Content column 2
+```cwst_color```
+```cwst_disable```
