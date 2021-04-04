@@ -11,8 +11,9 @@
 
 ## below are the convars to use also comes with a handy gui in the utilites tab
 
- - [ ]  Complete Base
- - [ ]  Create UI
+ - [ ]  Complete GMCWST Base
+ - [ ]  Create GUI in utilites
+ - [ ]  Upload to workshop 
 
 
 Console | Action
