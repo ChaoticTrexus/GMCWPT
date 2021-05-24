@@ -23,6 +23,11 @@ Convar | Action
 ------------ | -------------
 ```cwst_spread``` | {amount} 
 ```cwst_presets``` | {PRESET_DEFAULT} 
-```cwst_color```
-```cwst_disable```
-##### uses default base ingame aka swep look in weapons/CWST GUN1 / GUN2
+```cwst_color``` | {RGB:#FFFFF} DEFAULT
+```cwst_ai_use``` | { ENABLED / DISABLED} 
+```cwst_reset_settings```
+```cwst_modules``` |
+```cwst_client_set```
+```cwst_server_set```
+
+##### already preset testing weapons included SWEPGC_1 SWEPGC_2 AI Compatibility hasn't been fully been intergrated so expect issues
