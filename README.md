@@ -6,6 +6,8 @@
 
 
 
+## Use of CWST creates a custom recoil pattern to mess with bunch of configuration and what not to mess with really useful with aim training within gmod 
+
 
 
 
