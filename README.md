@@ -6,7 +6,10 @@
 
 
 
-## Use of CWST creates a custom recoil pattern to mess with bunch of configuration and what not to mess with really useful with aim training within gmod 
+## GMCWST is a lua addon for garry's mod for recoil modification for weapons
+adds unique weapons spray mostly as a realism or aim train practice for other games in one game
+customizable hud also weapons presets 
+
 
 
 
