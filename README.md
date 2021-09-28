@@ -9,9 +9,10 @@
 ## GMCWST is a lua addon for garry's mod for recoil modification for weapons
 adds unique weapons spray mostly as a realism or aim train practice for other games in one game
 customizable hud also weapons presets 
+* [Convars](#convars)
+* [Installation](#installation)
 
-
-
+## Installation
 
 
 ## below are the convars to use also comes with a handy gui in the utilites tab
@@ -23,7 +24,7 @@ customizable hud also weapons presets
  - [x]  ~~Add Logos~~
 ### no it does not work with TFA \ ArcCW \ VJ BASE ETC... yet
 
-#### below is the console convars 
+#### Convars
 Convar | Action
 ------------ | -------------
 ```cwst_spread``` | {amount} 
