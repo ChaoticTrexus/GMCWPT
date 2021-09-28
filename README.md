@@ -1,7 +1,7 @@
 
-# Garrys Mod Customizable Weapon Spray Tool
+# Garrys Mod Customizable Spray Weapon Pattern Tool
 
-![CWST LOGO](/project_logo/safethat.png)
+![CSWPT](/project_logo/safethat.png)
 
 
 
