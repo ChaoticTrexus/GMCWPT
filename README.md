@@ -1,7 +1,7 @@
 
 # Garrys Mod Customizable Spray Weapon Pattern Tool
 
-![CSWPT](/project_logo/safethat.png)
+![CSWPT](/project_logo/SCRAPPED_LOGOS/safethat.png)
 
 
 
