@@ -30,9 +30,9 @@ Convar | Action
 ```cwst_presets``` | {PRESET_DEFAULT} 
 ```cwst_color``` | {RGB:#FFFFF} DEFAULT
 ```cwst_ai_use``` | { ENABLED / DISABLED} 
-```cwst_reset_settings```
-```cwst_modules``` |
-```cwst_client_set```
-```cwst_server_set```
+```cwst_reset_settings``` | {N/A}
+```cwst_modules``` | {N/A}
+```cwst_client_set``` | {N/A}
+```cwst_server_set``` | {N/A}
 
 ##### already preset testing weapons included SWEPGC_1 SWEPGC_2 AI Compatibility hasn't been fully been intergrated so expect issues
